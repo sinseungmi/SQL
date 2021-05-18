@@ -14,7 +14,7 @@
 
 2.1 Window + R 키 눌러서 'regeidt' 치고 확인  버튼 누르기
 
-2.2.1 오라클 뒤 서비스 삭제하기
+2.2.1 오라클 뒤 서비스 삭제하기 
 
 경로 검색
 HKEY_LOCAL_MACHINE - SYSTEM - CurrentControlSet - Services - O 클릭 후 O로 시작되는 6개의 레지스트리 찾기

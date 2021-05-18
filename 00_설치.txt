@@ -18,7 +18,7 @@ SQL> show user
 SQL> connect java1/1234@localhost:1521/XEPDB1
 - 만든 계정으로 접속해보기
 
-SQL> alter user hr account unlock;
+SQL> alter user hr account unlock; 
 - 연습용 hr 계정 잠금 해제하기
 - 오라클의 기본 연습용 계정
 
